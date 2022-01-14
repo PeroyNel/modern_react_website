@@ -1,5 +1,5 @@
 import React from 'react';
-import 'what.css';
+import './what.css';
 
 const What = () => {
     return (
