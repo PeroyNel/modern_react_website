@@ -6,12 +6,12 @@ import logo from '../../assets/logo.svg';
 
 const Navbar = () => {
     return (
-        <div className="gpto3__navbar">
-            <div className="gpto3__navbar-links">
-                <div className="gtp3__navbar-links_logo">
+        <div className="gpt3__navbar">
+            <div className="gpt3__navbar-links">
+                <div className="gpt3__navbar-links_logo">
                     <img src={logo} alt="logo" />
                 </div>
-                <div className="gtp3__navbar-links_container">
+                <div className="gpt3__navbar-links_container">
                     <p><a href="#home">Home</a></p>
                     <p><a href="#wgpt3">What is GPT3?</a></p>
                     <p><a href="#possibility">Open AI</a></p>
